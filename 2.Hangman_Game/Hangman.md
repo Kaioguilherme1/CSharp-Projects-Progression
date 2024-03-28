@@ -4,6 +4,9 @@
 
 The Hangman Game is a simple word guessing game. The player has to guess the word by suggesting letters within a certain number of guesses. The player wins if they can guess the word before they run out of guesses.
 
+![1-menu](https://github.com/Kaioguilherme1/CSharp-Projects-Progression/assets/65198889/0a26dcc5-0438-416d-bcb7-6658f8fd6ba5!)
+![3-game-over](https://github.com/Kaioguilherme1/CSharp-Projects-Progression/assets/65198889/1c749f44-6fc9-4961-8bff-d06dac491f26)
+
 ## Rules
 
 1. The player has to guess the word by suggesting letters within a certain number of guesses.
