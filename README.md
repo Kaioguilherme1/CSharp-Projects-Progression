@@ -27,7 +27,9 @@ Develop a simple calculator that can perform basic operations such as addition, 
 
 C# (Console Application)
 
-### 2. Hangman Game
+### [2. Hangman Game](https://github.com/Kaioguilherme1/CSharp-Projects-Progression/blob/main/2.Hangman_Game/Hangman.md)
+
+![2-game](https://github.com/Kaioguilherme1/CSharp-Projects-Progression/assets/65198889/c3fd5c0f-fabf-40e1-a76d-2133c160f117)
 
 ---
 
