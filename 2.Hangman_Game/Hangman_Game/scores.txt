@@ -1,0 +1,5 @@
+| bot : -4
+| noname : -3
+| soldier : 4
+| bug : -4
+| Kaio : 10
